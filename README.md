@@ -6,7 +6,7 @@
   Steps:
   
  
-    1. Download the entire folder called ScienceEvolved.
+    1. Download the entire folder called EvolveScience.
     2. Run main.py using CMD.
     3. Access the home page by typing "http://127.0.0.1:5000/" on your preferred browser.
     4. Use the navbar to navigate different webpages.
