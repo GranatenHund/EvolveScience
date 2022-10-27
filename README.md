@@ -13,10 +13,10 @@
   
   Note: If you are going to modify this code, make sure that you keep the folder structure identical because flask requires having css and images in "static" folder and the html files in "template" folder. 
   
+Click the link below: 
+
 [Evolve Science](https://www.youtube.com/watch?v=WfIzqg5kzEI)
 
-SCREENSHOTS
------------
-
-Landing Page
-![Desktop - 5 (1)](https://user-images.githubusercontent.com/114913352/196703925-d208e2d3-0028-471d-936d-1af05364d35c.jpg)
+Evolve Science
+--------------
+![Desktop - 11](https://user-images.githubusercontent.com/114913352/198215592-af4e8164-045c-4aa8-9cef-04756c8034b6.jpg)
