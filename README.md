@@ -11,7 +11,10 @@ Steps:
     ![Folder](https://user-images.githubusercontent.com/114913352/198228001-e5f30c82-7c81-45cb-805c-e7a0c68c2960.PNG)
     
 2. Run main.py using CMD.
-
+    Make sure you have Flask Installed in your system for this to work.
+    
+    If you don't have Flask installed in your system click this [FLASK](https://www.tutorialspoint.com/flask/flask_environment.htm) tutorial.
+    
     ![cmd](https://user-images.githubusercontent.com/114913352/198229374-49162f8b-0a26-4578-9435-fd7dfc4979d9.PNG)
 
 3. Access the home page by typing "http://127.0.0.1:5000/" on your preferred browser.
