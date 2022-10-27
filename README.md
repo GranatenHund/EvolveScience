@@ -1,7 +1,8 @@
 # EvolveScience
 
-
-  This is website is called EvolveScience. It is developed using Flask, so make sure you have it installed in your Python Environment.
+  EvolveScience is a website that contains information regarding cosmic objects such as active galaxies, black holes, stars, planets, asteroids, and their descriptions and examples within. 
+  
+  It is developed using Flask, so make sure you have it installed in your Python Environment.
   
   Steps:
   
@@ -13,7 +14,7 @@
   
   Note: If you are going to modify this code, make sure that you keep the folder structure identical because flask requires having css and images in "static" folder and the html files in "template" folder. 
   
-Click the link below: 
+Click the link below to watch: 
 
 [Evolve Science](https://www.youtube.com/watch?v=WfIzqg5kzEI)
 
